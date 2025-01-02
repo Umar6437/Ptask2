@@ -27,9 +27,9 @@ The comment does nothing in the program. The programmers use that to explain oth
 
 It is group of codes which can be used anywhere in the program. It starts with def and also it has name through which we can access them or use them anywhere within the code. For e.g 
 
-def Func()
+    def Func()
 
-print("This is function")
+    print("This is function")
 
 # 5. Code Block and Indentation
 
